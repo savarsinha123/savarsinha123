@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savar-sinha-0a5364237/)](https://www.linkedin.com/in/savar-sinha-0a5364237/)
+
 <!--
 **savarsinha123/savarsinha123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
