@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Resume](https://img.shields.io/badge/Resume-CV-informational?style=for-the-badge)](PATH_TO_YOUR_PDF_FILE)
+[![Resume](https://img.shields.io/badge/Resume-CV-informational?style=for-the-badge)](Savar_Sinha_CV.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savar-sinha-0a5364237/)](https://www.linkedin.com/in/savar-sinha-0a5364237/) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=T2ApEXgAAAAJ&hl=en)](https://scholar.google.com/citations?user=T2ApEXgAAAAJ&hl=en) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-9cf?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Savar-Sinha/publications)](https://www.researchgate.net/profile/Savar-Sinha/publications)
 
