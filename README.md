@@ -8,9 +8,6 @@ Other Platorms: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=f
 
 Hello! My name is Savar Sinha, and I am a computer science undergraduate student at Caltech. I have a wide range of interests including machine learning and AI, quantum computing, and computational biology. I hope to explore these fields over the next few years of university.
 
-## Machine-learning Projects
-WIP
-
 ## Research Publications:
 [4] **Sinha SD**, Wideman JG (2023) The persistent homology of mitochondrial ATP synthases. IScience, 26(5), 106700. doi: 10.1016/j.isci.2023.106700.
 
