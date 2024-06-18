@@ -6,7 +6,9 @@ CV: [![Resume](https://img.shields.io/badge/Resume-CV-informational?style=for-th
 
 Other Platorms: [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/savar-sinha-0a5364237/)](https://www.linkedin.com/in/savar-sinha-0a5364237/) [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-blue?style=flat-square&logo=Google%20Scholar&logoColor=white&link=https://scholar.google.com/citations?user=T2ApEXgAAAAJ&hl=en)](https://scholar.google.com/citations?user=T2ApEXgAAAAJ&hl=en) [![ResearchGate](https://img.shields.io/badge/-ResearchGate-9cf?style=flat-square&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Savar-Sinha/publications)](https://www.researchgate.net/profile/Savar-Sinha/publications)
 
-Hello! My name is Savar Sinha, and I am a computer science undergraduate student at Caltech. I have a wide range of interests including machine learning and AI, quantum computing, and computational biology. I hope to explore these fields over the next few years of university.
+Hello! My name is Savar Sinha, and I am a computer science undergraduate student at Caltech primarily interested in quantum computing. 
+
+In the past, I have also participated in several computational biology projects under Professor Wideman at Arizona State University and Dr. Chaudhuri at Washington University in St Louis. The publications produced during these research projects are shown below.
 
 ## Research Publications:
 [4] **Sinha SD**, Wideman JG (2023) The persistent homology of mitochondrial ATP synthases. IScience, 26(5), 106700. doi: 10.1016/j.isci.2023.106700.
