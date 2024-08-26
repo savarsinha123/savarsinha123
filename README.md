@@ -11,6 +11,8 @@ Hello! My name is Savar Sinha, and I am a computer science undergraduate student
 In the past, I have also participated in several computational biology projects under Professor Wideman at Arizona State University and Dr. Chaudhuri at Washington University in St Louis. The publications produced during these research projects are shown below.
 
 ## Research Publications:
+[5] Chauhan PS, Alahi I, **Sinha SD**, et al. (2024) Genomic and epigenomic analysis of plasma cell-free DNA identifies stemness features associated with worse survival in lethal prostate cancer. Clin Cancer Res 2024. doi: 10.1158/1078-0432.CCR-24-1658
+
 [4] **Sinha SD**, Wideman JG (2023) The persistent homology of mitochondrial ATP synthases. IScience, 26(5), 106700. doi: 10.1016/j.isci.2023.106700.
 
 [3] Macher JN, Coots NL, Girard EB, Langerak A, Muñoz-Gómez SA, **Sinha SD**, Vos R, Wissels R, Gile G, Renema W, Wideman JG. (2023) Single-Cell Genomics Reveals the Divergent Mitochondrial Genomes of Retaria (Foraminifera and Radiolaria). MBio, 0(0), e00302-23. doi: 10.1128/mbio.00302-23.
