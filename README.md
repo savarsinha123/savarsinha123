@@ -15,6 +15,9 @@ Prior to this, I have also participated in several computational biology project
 My research publications are shown below:
 
 ## Research Publications:
+
+[7] **Sinha SD** (2026) Efficient and SPAM-Robust Ansatz-Free Lindbladian Learning. CaltechTHESIS (Senior Thesis). doi: 10.7907/hprr-fq68
+
 [6] **Sinha SD** and Tong Y (2025) Improved Hamiltonian learning and sparsity testing through Bell sampling. arXiv (preprint). doi: 10.48550/arXiv.2509.07937
 
 [5] Chauhan PS, Alahi I, **Sinha SD**, et al. (2024) Genomic and epigenomic analysis of plasma cell-free DNA identifies stemness features associated with worse survival in lethal prostate cancer. Clin Cancer Res 2024. doi: 10.1158/1078-0432.CCR-24-1658
